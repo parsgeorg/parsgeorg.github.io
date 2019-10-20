@@ -1,0 +1,46 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+build.tgz
+dayside.rar
+src.rar
+src/components/Tasks/index — копия.js
+src/components/Tasks/index — копия (2).js
+src/components/UI/Forms/Tasks/AddTaskForm/index1.js
+src/helpers/ValidationWithImg.js
+src/components/FilteredProducts/View.js
+src/components/FilteredProducts/index.js
+src/components/FilteredTasks/View — копия.js
+src/components/FilteredTasks/ViewWithSeparatedWorkingSorting.js
+src/components/FilteredTasks/index — копия.js
+src/components/FilteredTasks/View.js
+src/components/FilteredTasks/index.js
+src/components/LoginForm/View.js
+src/components/SortedTasks/View — копия.js
+src/components/SortedTasks/ViewWithSeparatedWorkingSorting.js
+src/components/SortedTasks/index — копия.js
+src/components/SortedTasks/View — копия.js
+src/components/SortedTasks/ViewWithSeparatedWorkingSorting.js
+src/components/SortedTasks/index — копия.js
+src/components/UI/Forms/Tasks/AddTaskForm/ViewFormik.js
